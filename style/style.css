@@ -34,5 +34,10 @@
    position: absolute;
 }
 .flag-stand{
-    
+    height: 50px;
+   width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 93%;
+    left: 24%;
 }
